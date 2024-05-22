@@ -1,0 +1,1 @@
+['hay'] = {['name'] = 'hay',  ['label'] = 'hay', ['weight'] = 0, ['type'] = 'item', ['image'] = 'hay.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'pile of hay'},
