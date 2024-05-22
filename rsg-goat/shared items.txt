@@ -1,0 +1,4 @@
+['cow'] = {['name'] = 'cow',  ['label'] = 'cow', ['weight'] = 0, ['type'] = 'item', ['image'] = 'cow.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'animal'},
+	['sheep'] = {['name'] = 'sheep',  ['label'] = 'sheep', ['weight'] = 0, ['type'] = 'item', ['image'] = 'sheep.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'animal'},
+	['pig'] = {['name'] = 'pig',  ['label'] = 'pig', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pig.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'animal'},
+	['goat'] = {['name'] = 'goat',  ['label'] = 'goat', ['weight'] = 0, ['type'] = 'item', ['image'] = 'goat.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'animal'},
