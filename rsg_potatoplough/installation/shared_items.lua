@@ -1,0 +1,1 @@
+['plough'] = {['name'] = 'plough',  ['label'] = 'plough', ['weight'] = 0, ['type'] = 'item', ['image'] = 'plough.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'plough'},
