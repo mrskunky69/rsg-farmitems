@@ -1,0 +1,1 @@
+['barrow'] = {['name'] = 'barrow',  ['label'] = 'barrow', ['weight'] = 0, ['type'] = 'item', ['image'] = 'barrow.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'barrow'},
